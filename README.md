@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Mikayil 👋
 
-<!--
-**mikayil-c/mikayil-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer engineering student.
+I have the discipline to refactor code and do pull-ups at the same time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies I've Learned & Worked With
+
+### 🎯 Backend & Web Development:
+- **C#** – my main programming language 👨‍💻
+- **ASP.NET Core**
+  - Razor Pages 💎
+  - MVC 🎭
+- **ASP.NET** (Classic)
+- **ADO.NET**
+- **Windows Forms**
+
+### 💾 Databases:
+- **SQL Server**
+- **Entity Framework Core** (Code-First & Database-First)
+
+### 🧰 Other Tools & Skills:
+- Git & GitHub (we're on good terms now 🤝)
+- Visual Studio & VS Code
+- Basic knowledge of Java and HTML/CSS/JavaScript
+
+## ⚡ Fun Fact
+
+> Sometimes I look at my old code and wonder:
+> “Was I okay back then?”
