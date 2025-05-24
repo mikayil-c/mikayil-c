@@ -27,5 +27,7 @@ I have the discipline to refactor code and do pull-ups at the same time.
 
 ## ⚡ Fun Fact
 
-> Sometimes I look at my old code and wonder:
-> “Was I okay back then?”
+> Sometimes I look at my old code and wonder:  
+> “Was I okay back then?”  
+>  
+> *Nevermind, I'm not okay now either.*
