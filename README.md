@@ -1,7 +1,6 @@
 # Hi there, I'm Mikayil 👋
 
 I'm a computer engineering student.
-I have the discipline to refactor code and do pull-ups at the same time.
 
 ---
 
@@ -10,8 +9,8 @@ I have the discipline to refactor code and do pull-ups at the same time.
 ### 🎯 Backend & Web Development:
 - **C#** – my main programming language 👨‍💻
 - **ASP.NET Core**
-  - Razor Pages 💎
-  - MVC 🎭
+  - Razor Pages 
+  - MVC
 - **ASP.NET** (Classic)
 - **ADO.NET**
 - **Windows Forms**
