@@ -7,7 +7,7 @@ I'm a computer engineering student.
 ## 🛠️ Technologies I've Learned & Worked With
 
 ### 🎯 Backend & Web Development:
-- **C#** – my main programming language 👨‍💻
+- **C#**
 - **ASP.NET Core**
   - Razor Pages 
   - MVC
@@ -17,16 +17,9 @@ I'm a computer engineering student.
 
 ### 💾 Databases:
 - **SQL Server**
-- **Entity Framework Core** (Code-First & Database-First)
+- **Entity Framework Core**
 
 ### 🧰 Other Tools & Skills:
-- Git & GitHub (we're on good terms now 🤝)
 - Visual Studio & VS Code
 - Basic knowledge of Java and HTML/CSS/JavaScript
 
-## ⚡ Fun Fact
-
-> Sometimes I look at my old code and wonder:  
-> “Was I okay back then?”  
->  
-> *Nevermind, I'm not okay now either.*
