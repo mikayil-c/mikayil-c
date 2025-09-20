@@ -1,6 +1,6 @@
 # Hi there, I'm Mikayil 👋
 
-I'm a computer engineering student.
+I'm a third-year computer engineering student.
 
 ---
 
@@ -8,6 +8,7 @@ I'm a computer engineering student.
 
 ### 🎯 Backend & Web Development:
 - **C#**
+- **Java**
 - **ASP.NET Core**
   - Razor Pages 
   - MVC
@@ -20,6 +21,5 @@ I'm a computer engineering student.
 - **Entity Framework Core**
 
 ### 🧰 Other Tools & Skills:
-- Visual Studio & VS Code
-- Basic knowledge of Java and HTML/CSS/JavaScript
+- Basic knowledge of HTML/CSS/JavaScript
 
