@@ -6,7 +6,7 @@ I'm a third-year computer engineering student.
 
 ## Technologies I've Learned & Worked With
 
-### Backend & Web Development:
+### Development:
 - **C#**
 - **Java**
 - **Dart**
