@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi there, I'm Mikayil! 👋
 
-<!--
-**mikayil-c/mikayil-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **3rd-year computer engineering student** passionate about building web, mobile solutions and improving at AI industry.
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Development Languages:**
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+
+**Frameworks & Platforms:**
+* **.NET Ecosystem:** .NET Core, ASP.NET Core (Razor Pages, MVC), Entity Framework Core
+* **Mobile:** Flutter
+* **Desktop/GUI:** Windows Forms / WPF (C# & Java based)
+
+**Databases:**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+**Abilities**
+* Data Structures and Algorithms
+* Object Oriented Programming
+* SOLID Principles
+* Clean Architecture
+* Documentation
+* SDLC
+
+### About Me
+* I’m currently learning deeper concepts of **software architecture.**
+* I enjoy **working in team environments.**
+* In my free time, I love researching new technologies to keep my skills sharp.
