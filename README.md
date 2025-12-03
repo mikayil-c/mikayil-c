@@ -11,6 +11,7 @@ I'm a **3rd-year computer engineering student** passionate about building web, m
 * **.NET Ecosystem:** .NET Core, ASP.NET Core (Razor Pages, MVC), Entity Framework Core
 * **Mobile:** Flutter
 * **Desktop/GUI:** Windows Forms / WPF (C# & Java based)
+* **VCS:** Git, GitHub
 
 **Databases:**
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
