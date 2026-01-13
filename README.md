@@ -10,7 +10,6 @@ I'm a **3rd-year computer engineering student** passionate about building web, m
 **Frameworks & Platforms:**
 * **.NET Ecosystem:** .NET Core, ASP.NET Core (Razor Pages, MVC), Entity Framework Core
 * **Mobile:** Flutter
-* **Desktop/GUI:** Windows Forms / WPF (C# & Java based)
 * **VCS:** Git, GitHub
 
 **Databases:**
