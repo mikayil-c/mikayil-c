@@ -1,6 +1,6 @@
 ### Hi there, I'm Mikayil! 👋
 
-I'm a **3rd-year computer engineering student** passionate about building web, mobile solutions and improving at AI industry.
+I'm a **3rd-year computer engineering student** passionate about mobile solutions and improving at low-level programming.
 
 ### 🛠️ Technologies & Tools
 
@@ -24,6 +24,6 @@ I'm a **3rd-year computer engineering student** passionate about building web, m
 * SDLC
 
 ### About Me
-* I’m currently learning deeper concepts of **software architecture.**
+* I’m currently learning deeper concepts of **low-level programming.**
 * I enjoy **working in team environments.**
 * In my free time, I love researching new technologies to keep my skills sharp.
