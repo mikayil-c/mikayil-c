@@ -1,6 +1,6 @@
 ### Hi there, I'm Mikayil! 👋
 
-I'm a **3rd-year computer engineering student** passionate about mobile solutions and improving at low-level programming.
+A **3rd-year computer engineering student** passionate about mobile(cross-platform) solutions and improving at low-level programming.
 
 ### 🛠️ Technologies & Tools
 
@@ -9,7 +9,7 @@ I'm a **3rd-year computer engineering student** passionate about mobile solution
 
 **Frameworks & Platforms:**
 * **.NET Ecosystem:** .NET Core, ASP.NET Core (Razor Pages, MVC), Entity Framework Core
-* **Mobile:** Flutter
+* **Cross Platform:** Flutter
 * **VCS:** Git, GitHub
 
 **Databases:**
@@ -24,6 +24,5 @@ I'm a **3rd-year computer engineering student** passionate about mobile solution
 * SDLC
 
 ### About Me
-* I’m currently learning deeper concepts of **low-level programming.**
-* I enjoy **working in team environments.**
-* In my free time, I love researching new technologies to keep my skills sharp.
+* Currently learning deeper concepts of **low-level programming.**
+* Enjoy **working in team environments.**
