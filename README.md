@@ -1,6 +1,6 @@
 ### Hi there, I'm Mikayil! 👋
 
-A **3rd-year computer engineering student** passionate about mobile(cross-platform) solutions and improving at low-level programming.
+A **last year computer engineering student** passionate about mobile(cross-platform) solutions and improving at low-level programming.
 
 ### 🛠️ Technologies & Tools
 
